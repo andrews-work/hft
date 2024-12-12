@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/andrew/Documents/work/personal projects/projects/c++/test",
+      "program": "/Users/andrew/Documents/work/personal projects/projects/c++/test/build/Debug/outDebug"
+    }
+  ]
+}
